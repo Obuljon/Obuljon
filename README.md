@@ -1,38 +1,38 @@
-# Salom! 👋 Men Obiljon Rakhimov
+# Hello! 👋 I'm Obiljon Rakhimov
 
-**Junior Full-Stack Developer** | Urganch, Uzbekistan
+**Junior Full-Stack Developer** | Urgench, Uzbekistan
 
-Tez o'rganuvchi va jamoaviy ishni yaxshi ko'radigan talaba-dasturchi. Yangi texnologiyalarni (masalan, Rust va microservices) mustaqil o'zlashtiraman. Toza kod yozish va real loyihalarda ishtirok etish – mening maqsadim.
+A student programmer who is a fast learner and loves teamwork. I independently master new technologies (for example, Rust and microservices). Writing clean code and participating in real projects is my goal.
 
-### Ko'nikmalarim 🛠️
-- **Tillari**: JavaScript • TypeScript • Rust (o'rganmoqdaman)
+### My skills 🛠️
+- **Languages**: JavaScript • TypeScript • Rust (I'm learning)
 - **Frontend**: React.js • Tailwind CSS • Vite
 - **Backend**: Node.js • Express.js • Nest.js
 - **Database**: MongoDB • MySQL • PostgreSQL • Redis
 - **Tools**: Docker • NATS • Nginx • Git/GitHub • Linux (Ubuntu)
 
-### Asosiy Loyihalarim 🚀
+### My Main Projects 🚀
 [![Chat App](https://img.shields.io/badge/-Real--time_Chat_with_Microservices-0D1117?style=flat&logo=github&logoColor=white)](https://github.com/Obuljon/chat)
-> NATS + Docker bilan microservices chat ilovasi (Nest.js + React)
+> A microservices chat application with NATS + Docker (Nest.js + React)
 
-[![Expense Tracker](https://img.shields.io/badge/-Expense_Tracker-0D1117?style=flat&logo=github&logoColor=white)](https://github.com/Obuljon/e-commerce)  
-> JWT autentifikatsiya bilan xarajat kuzatuvchi (Express + MongoDB)
+[![Expense Tracker](https://img.shields.io/badge/-Expense_Tracker-0D1117?style=flat&logo=github&logoColor=white)](https://github.com/Obuljon/e-commerce)
+> Expense tracker with JWT authentication (Express + MongoDB)
 
-[![Blog Platform](https://img.shields.io/badge/-Blogging_Platform-0D1117?style=flat&logo=github&logoColor=white)](https://github.com/Obuljon/pizzaexpress)  
-> Jamoaviy loyiha: REST API + MySQL
+[![Blog Platform](https://img.shields.io/badge/-Blogging_Platform-0D1117?style=flat&logo=github&logoColor=white)](https://github.com/Obuljon/pizzaexpress)
+> Team project: REST API + MySQL
 
-### Tajribam 💼
-- **Intern** @ AI-Software Group  
-- **Intern** @ Appx Group  
-> Code review, Git workflow va real loyihalarda ishlash tajribasi
+### My experience 💼
+- **Intern** @ AI-Software Group
+- **Intern** @ Appx Group
+> Code review, Git workflow and experience working on real projects
 
-### Bog'lanish 📫
+### Contact 📫
 - ✉️ rahimovabul2@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/obul-rakhim-)
-- 📄 [Resume/CV](https://link-to-your-resume-pdf)  *(PDF link qo'shing agar bo'lsa)*
+- 📄 [Resume/CV](https://link-to-your-resume-pdf) *(Include PDF link if applicable)*
 
 ### Stats 📊
 ![Obiljon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obuljon&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obuljon&layout=compact&theme=radical&hide_border=true)
 
-Jamoaviy loyihalarda ishtirok etishga tayyorman – PR yuboring yoki yozing! 🚀
+I'm ready to participate in team projects - send a PR or write! 🚀
