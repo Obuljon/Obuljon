@@ -17,9 +17,10 @@ A student programmer who is a fast learner and loves teamwork. I independently m
 > Code review, Git workflow and experience working on real projects
 
 ### Contact 📫
-- ✉️ rahimovabul2@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/obul-rakhim-)
-- 📄 [Resume/CV](https://link-to-your-resume-pdf) *(Include PDF link if applicable)*
+- 📧 **Email:** [rahimovabul2@gmail.com](mailto:rahimovabul2@gmail.com)
+- 💼 **LinkedIn:** [obul-rakhim-](https://linkedin.com/in/obul-rakhim-)
+- 📄 **Resume / CV:** [View PDF](https://link-to-your-resume-pdf)
+- 🌐 **Portfolio:** [obiljondev.org.uz](http://www.obiljondev.org.uz/)
 
 ### Stats 📊
 ![Obiljon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obuljon&show_icons=true&theme=radical&hide_border=true)
