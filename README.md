@@ -18,8 +18,8 @@ A student programmer who is a fast learner and loves teamwork. I independently m
 
 ### Contact 📫
 - 📧 **Email:** [rahimovabul2@gmail.com](mailto:rahimovabul2@gmail.com)
-- 💼 **LinkedIn:** [obul-rakhim-](https://linkedin.com/in/obul-rakhim-)
-- 📄 **Resume / CV:** [View PDF](https://link-to-your-resume-pdf)
+- 💼 **LinkedIn:** [obul-rakhim-](https://linkedin.com/in/obul-rakhim-3b293a26b)
+- 📄 **Resume / CV:** [View PDF](https://portfolio-2026-nuer.vercel.app/obiljon-resume.pdf)
 - 🌐 **Portfolio:** [obiljondev.org.uz](http://www.obiljondev.org.uz/)
 
 ### Stats 📊
