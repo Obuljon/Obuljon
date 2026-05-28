@@ -6,7 +6,7 @@ A student programmer who is a fast learner and loves teamwork. I independently m
 
 ### My skills 🛠️
 - **Languages**: JavaScript • TypeScript • Rust (I'm learning)
-- **Frontend**: React.js • WebPack • Tailwind CSS • Vite • Next.js (I'm learning)
+- **Frontend**: React.js • WebPack • Tailwind CSS • Vite • Next.js
 - **Backend**: Node.js • Express.js • Nest.js • Actix-web • Axum (I'm learning)
 - **Database**: MongoDB • MySQL • PostgreSQL • Redis
 - **Tools**: Docker • NATS • Nginx • Git/GitHub • Linux (Ubuntu)
