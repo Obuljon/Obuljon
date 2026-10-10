@@ -1,29 +1,36 @@
-# Hello! 👋 I'm Obiljon Rakhimov
+# Hi, I'm Obiljon Rakhimov 👋
 
-**Junior Full-Stack Developer** | Urgench, Uzbekistan
+**Full-Stack Developer** · Urgench, Uzbekistan
 
-A student programmer who is a fast learner and loves teamwork. I independently master new technologies (for example, Rust and microservices). Writing clean code and participating in real projects is my goal.
+I build web backends and frontends end to end: **NestJS / Rust (Axum)** APIs with JWT + RBAC auth and real-time WebSocket features, paired with **React / Next.js / TypeScript** interfaces. I'm focused on clean, secure, well-structured code.
 
-### My skills 🛠️
-- **Languages**: JavaScript • TypeScript • Rust (I'm learning)
-- **Frontend**: React.js • WebPack • Tailwind CSS • Vite • Next.js
-- **Backend**: Node.js • Express.js • Nest.js • Actix-web • Axum (I'm learning)
-- **Database**: MongoDB • MySQL • PostgreSQL • Redis
-- **Tools**: Docker • NATS • Nginx • Git/GitHub • Linux (Ubuntu)
-  
-### My experience 💼
-- **Intern** @ AI-Software Group
-- **Intern** @ Appx Group
-> Code review, Git workflow and experience working on real projects
+🔭 Currently: deepening Rust backend development and microservices, and learning network security to harden my own backends
+🌱 Open to: junior / intern full-stack or backend roles, and team projects
+📫 Reach me: [rahimovabul2@gmail.com](mailto:rahimovabul2@gmail.com)
 
-### Contact 📫
-- 📧 **Email:** [rahimovabul2@gmail.com](mailto:rahimovabul2@gmail.com)
-- 💼 **LinkedIn:** [obul-rakhim-](https://linkedin.com/in/obul-rakhim-3b293a26b)
-- 📄 **Resume / CV:** [View PDF](https://portfolio-2026-nuer.vercel.app/obiljon-resume.pdf)
-- 🌐 **Portfolio:** [obiljondev.org.uz](http://www.obiljondev.org.uz/)
+## 🛠️ Tech Stack
 
-### Stats 📊
-![Obiljon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obuljon&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obuljon&layout=compact&theme=radical&hide_border=true)
+![TypeScript](https://skillicons.dev/icons?i=ts,js,rust)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express)
+![Data](https://skillicons.dev/icons?i=postgres,mongodb,redis)
+![Tools](https://skillicons.dev/icons?i=docker,nginx,git,linux)
 
-I'm ready to participate in team projects - send a PR or write! 🚀
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Qora Qog'oz](link)** | SaaS for secure, collaborative file filling | Next.js, TypeScript |
+| **[Black Paper Backend](link)** | Backend with auth, WebSockets and role-based access | Rust, Axum, PostgreSQL |
+| **[Wall-E](link)** | Autonomous urban cleaning robot: backend, admin panel, ROS 2 client | Rust, React, ROS 2 |
+| **[Training Center](link)** | Multi-role app (owner / admin / teacher / student) | NestJS, React, TanStack Router |
+
+## 💼 Experience
+
+- **Trainee**, AI Softwares Uzbekistan
+- **Intern**, Appx Group
+  Code review, Git workflow, work on real team projects
+
+## 📎 Links
+
+[Portfolio](https://www.obiljondev.org.uz) · [LinkedIn](https://linkedin.com/in/obul-rakhim-3b293a26b) · [Resume (PDF)](https://portfolio-2026-nuer.vercel.app/obiljon-resume.pdf)
